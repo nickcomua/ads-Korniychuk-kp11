@@ -1,0 +1,15 @@
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/bin/Debug/net6.0/7
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/bin/Debug/net6.0/7.deps.json
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/bin/Debug/net6.0/7.runtimeconfig.json
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/bin/Debug/net6.0/7.dll
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/bin/Debug/net6.0/ref/7.dll
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/bin/Debug/net6.0/7.pdb
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.csproj.AssemblyReference.cache
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.AssemblyInfoInputs.cache
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.AssemblyInfo.cs
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.csproj.CoreCompileInputs.cache
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.dll
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/ref/7.dll
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.pdb
+/home/nick/c#/ads-Korniychuk-kp11/LAB-7/7/obj/Debug/net6.0/7.genruntimeconfig.cache
